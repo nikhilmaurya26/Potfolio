@@ -22,6 +22,20 @@
     padding: 20px 0;
 }
 
+.sidebargo{
+    transform: translate(-70px,0px);
+    position: absolute;
+}
+
+.threedot{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.cross{
+    margin-left: 100px;
+}
+
 .main{
     /* background-color: yellow; */
     width: 90vw;
@@ -51,7 +65,7 @@
     font-size: 60px;
 }
 .name{
-    font-size: 45px;
+    font-size: 45px; 
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
 }
@@ -60,6 +74,7 @@
 }
 .moreabout{
     font-size:20px;
+    margin-top: 23px;
     font-family: 'Fira Sans', sans-serif;
 }
 .buttons{
